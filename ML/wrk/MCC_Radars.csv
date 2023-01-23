@@ -1,0 +1,303 @@
+Radar Description;Component;Date;Type;SRE
+SUPPORT: DRAGON - Push notifications for iCloud Mail not occurring; MCC-SRE-Core | All; Today, 4:42 AM; Analyze (Screen); Ravi Kant
+SUPPORT: DRAGON - Unable to access Mail - Health check fails with message No ACCOUNT record, No INBOX, No MODSEQ record; MCC-SRE-Core | All; Today, 4:41 AM; Analyze (Screen); Arun Kumar Kezhucheri
+SUPPORT: DRAGON - Unable to access mail while account is under maintenance; MCC-SRE-Core | All; Today, 4:41 AM; Analyze (Screen); Arun Kumar Kezhucheri
+SUPPORT: DRAGON -  Data loss: Unable to recover deleted emails in iCloud Support App; MCC-SRE-Core | All; Today, 4:33 AM; Analyze (Screen); Praveen Sriperumbudhuri
+SUPPORT: DRAGON -  Unable to enable mail - Email Taken - This email address is already taken. Try picking a new one.; MCC-SRE-Core | All; Today, 4:33 AM; Analyze (Screen); Praveen Sriperumbudhuri
+SUPPORT: DRAGON -  Unable to send mail from @me.com; MCC-SRE-Core | All; Today, 4:31 AM; Analyze (Screen); Ravi Kant
+[DAV] Log memcached instance name or ip during exceptions; iCloud CloudKit | Memcache; Today, 4:24 AM; Verify; Arun Kumar Kezhucheri
+[Oncall-followup] CRITICAL : Caldavj - GC Time too high - p63; iCloud CloudKit | Memcache; Today, 4:21 AM; Verify; Sourav Maji
+[on-call followup] Caldavj - GC Time too high - p49; iCloud CloudKit | Memcache; Today, 4:21 AM; Verify; Chaithra Muruvanda Kushalappa
+[mccgateway] p219 - p222 Bring up; MCC-SRE-Mail | All; Today, 12:08 AM; P2, Analyze (Investigate) - ACS 2306 (12/05-12/16); Praveen Sriperumbudhuri
+[MAS] Increase number of nice-itnues nodes in prod for MR/MS; MAS-SRE-Nice | All; Yesterday, 9:29 PM; P2, Analyze (Screen) - ACS 2306 (12/05-12/16); Gaurav Goel
+[MAS Apps][Prod] Tomahawk CPU Tuning; MAS-SRE | All; Yesterday, 9:20 PM; P4, Analyze (Screen) - ACS 2306 (12/05-12/16); Gaurav Goel
+Deploy mccgateway p301-p310; MCC-SRE-Mail | All; Yesterday, 6:39 PM; P2, Analyze (Investigate) - ACS 2305 (11/21-12/02); Praveen Sriperumbudhuri
+Deploy oracle_to_dragon script to Prod; MCC-SRE | All; Yesterday, 4:02 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+[MAS] Deploy 2303B1265 config in production; MAS-SRE | All; Yesterday, 12:09 PM; P3, Analyze (Screen) - ACS 2306 (12/05-12/16); Gaurav Goel
+[MAS] Migrate Rupert from user defined server certs to PLB generated cert; MAS-SRE-Rupert | All; Yesterday, 11:09 AM; P2, Analyze (Screen) - ACS 2306 (12/05-12/16); Gaurav Goel
+[MAS] Onboard Madrid application from  to us-west-3n; MAS-SRE-Madrid | All; Yesterday, 12:02 AM; P3, Analyze (Screen) - ACS 2306 (12/05-12/16); Gaurav Goel
+Shuttlecloud : Replicate Couch DB data amongst all DCs; MCC-SRE | All; 07/12/22, 5:28 PM; P3, Analyze (Screen) - ACS 2306 (12/05-12/16); Arun Kumar Kezhucheri
+[MAS] Deploy MAS apps with new spinnaker pipelines; MAS-SRE | All; 07/12/22, 3:22 PM; P3, Analyze (Screen) - ACS 2306 (12/05-12/16); Arun Kumar Kezhucheri
+Deploy CKMM-20221207045951.pkg to Prod mailstores; MCC-SRE | All; 07/12/22, 2:40 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+Decomm Blockers: Need help with fixing these users in Identity with partition assignment missing; MCC-SRE | All; 07/12/22, 2:12 PM; Analyze (Screen) - ACS 2305 (11/21-12/02); Himanshu Shahi
+[MAS] Setup Mosaic namespace in playground-gala - POC; MAS-SRE | All; 06/12/22, 9:10 AM; P3, Analyze (Screen) - ACS 2307 (12/19-12/30); Gaurav Goel
+Enable jemalloc for caldavj in new BM hosts; MCC-SRE-DAV | All; 06/12/22, 5:27 AM; Analyze (Screen); Sourav Maji
+[Observability] Dashboard for Pages; MAS-SRE | All; 05/12/22, 10:28 PM; P4, Analyze (Screen) - ACS 2306 (12/05-12/16); Praveen Sriperumbudhuri
+Add notification to AIPO for our mail client experience alerts; MCC-SRE-Mail | All; 05/12/22, 10:27 PM; P1, Verify - ACS 2305 (11/21-12/02); Praveen Sriperumbudhuri
+[MAS] Interrupts  - 2306; MAS-SRE | All; 05/12/22, 10:27 PM; P2, Analyze (Screen) - ACS 2306 (12/05-12/16); Praveen Sriperumbudhuri
+SUPPORT: DRAGON - Can not search at iCloud.com webmail; MCC-SRE-Customer Fixes | All; 05/12/22, 10:26 PM; P2, Analyze (Investigate) - ACS 2221 (07/18-07/29); Ravi Kant
+SUPPORT: DRAGON -  Storage not freed up; MCC-SRE-Core | All; 05/12/22, 10:25 PM; Analyze (Screen); Ravi Kant
+SUPPORT: DRAGON -  Mail data loss; MCC-SRE-Core | All; 05/12/22, 10:25 PM; Analyze (Screen); Ravi Kant
+SUPPORT: DRAGON - Data loss, request to recover; MCC-SRE-Core | All; 05/12/22, 10:24 PM; P2, Analyze (Screen); Ravi Kant
+SUPPORT: DRAGON - Unable to access webmail, detailed error report occurs; MCC-SRE-Customer Fixes | All; 05/12/22, 10:24 PM; P2, Analyze (Screen) - ACS 2302 (10/10-10/21); Ravi Kant
+Create synthetic monitoring on mccgateway external vips using Prober; MCC-SRE-Mail | All; 05/12/22, 10:23 PM; P2, Analyze (Screen) - ACS 2306 (12/05-12/16); Praveen Sriperumbudhuri
+[mccgateway] Add direct paging for CRITICAL issues and dependancy failures; MCC-SRE-Mail | All; 05/12/22, 10:23 PM; P3, Analyze (Screen) - ACS 2306 (12/05-12/16); Praveen Sriperumbudhuri
+[MAS] Make changes to Spinnaker template to support Hubble KPI verification; MAS-SRE | All; 05/12/22, 9:56 PM; P2, Analyze (Screen) - ACS 2306 (12/05-12/16); Gaurav Goel
+[MAS] Configure prober tests for MAS apps; MAS-SRE | All; 05/12/22, 9:55 PM; P4, Analyze (Screen) - ACS 2306 (12/05-12/16); Gaurav Goel
+[MspGateway] Retry on IDS service 404 response; MAS-SRE-MSPGW | All; 05/12/22, 6:21 PM; Analyze (Screen) - ACS 2306 (12/05-12/16); Arun Kumar Kezhucheri
+Decommissioning of Nagios Checks - app.iscreamv2; MCC-SRE | All; 05/12/22, 6:13 PM; P2, Analyze (Investigate) - ACS 2306 (12/05-12/16); Sourav Maji
+Need dedup for DRC_32 and DRC_23 failures; MCC-SRE | All; 05/12/22, 5:28 PM; Analyze (Screen); Himanshu Shahi
+Migrate MTA Hubble alerts to Native Reporting KPIs; MCC-SRE-Observability | Monitoring; 05/12/22, 4:27 PM; P3, Analyze (Investigate) - Backlog; Chaithra Muruvanda Kushalappa
+[icloudmta] Audit & update Hubble alerts in production & carry; MCC-SRE-Mail | All; 05/12/22, 4:26 PM; P3, Analyze (Screen) - Backlog; Chaithra Muruvanda Kushalappa
+Investigate courier connection pattern; MAS-SRE | All; 05/12/22, 4:10 PM; Analyze (Screen); Praveen Sriperumbudhuri
+Cutover smtpin in QA to smtpproxy vip; MCC-SRE | All; 05/12/22, 4:09 PM; P3, Analyze (Screen) - ACS 2306 (12/05-12/16); Chaithra Muruvanda Kushalappa
+[DAV] CFS Throttling | multiple alerts firing; MCC-SRE-DAV | All; 05/12/22, 11:55 AM; P3, Analyze (Screen) - ACS 2306 (12/05-12/16); Sourav Maji
+GCBD: MCCGateway app: fastconfig-client fails with 401; iCloud Mail API Gateway | All; 05/12/22, 11:28 AM; P2, Analyze (Investigate) - Backlog; Praveen Sriperumbudhuri
+[Commandcenter] Extend prober monitoring to new p1xx partitions; MCC-SRE-Mail | All; 05/12/22, 11:28 AM; Analyze (Screen); Praveen Sriperumbudhuri
+[Oncall Followup] [DAV] caldavj: Too Many Log4J Errors - p38; iCloud Calendar Server | New Bugs; 03/12/22, 7:28 PM; P2, Verify - ACS 2305 (11/21-12/02); Sourav Maji
+Decommissioning of Nagios Checks - app.identity; MCC-SRE | All; 02/12/22, 3:32 PM; P2, Analyze (Investigate) - Backlog; Sourav Maji
+[DAV] Migrate mosaic CFS throttling alerts to i4c; MCC-SRE-DAV | All; 02/12/22, 10:06 AM; P3, Analyze (Screen) - ACS 2306 (12/05-12/16); Sourav Maji
+SUPPORT: ORACLE -  Unable to access mail on iCloud and macOS mail app; MCC-SRE-Customer Fixes | All; 01/12/22, 4:22 PM; Analyze (Screen); Himanshu Shahi
+[Mail] Update owner.notes tag in verdad; MCC-SRE-Mail | All; 01/12/22, 4:22 PM; P3, Analyze (Screen) - ACS 2304 (11/07-11/18); Praveen Sriperumbudhuri
+SUPPORT: ORACLE - Multiple Mail access issues with iCloud Mail; MCC-SRE-Customer Fixes | All; 01/12/22, 4:21 PM; Analyze (Screen) - Backlog; Praveen Sriperumbudhuri
+SUPPORT: DRAGON - Append  Error when trying to move mail; MCC-SRE-Customer Fixes | All; 01/12/22, 4:21 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+SUPPORT: DRAGON - Incorrect Send From name on macOS (MacBook Pro only); MCC-SRE-Customer Fixes | All; 01/12/22, 4:19 PM; Analyze (Screen) - Backlog; Ravi Kant
+Blanket Approval: Need permission for Decommission  during freeze; MCC-SRE | All; 01/12/22, 12:21 AM; Analyze (Screen); Himanshu Shahi
+P65-p66 ACTI users from first two pods on priority; MCC-SRE | All; 01/12/22, 12:02 AM; Analyze (Screen); Himanshu Shahi
+[MAS] Migrate Mspgateway application from us-west-3a to us-west-3n; MAS-SRE-MSPGW | All; 30/11/22, 10:10 PM; P3, Analyze (Screen) - ACS 2306 (12/05-12/16); Gaurav Goel
+[asmtp][dlb] Update Exabgp health check to monitor the SMTP banner.; MCC-SRE | All; 30/11/22, 8:24 PM; Analyze (Screen) - Backlog; Chaithra Muruvanda Kushalappa
+[Dragon Migration] Migration failure as content assignment is missing; iCloud AccountService | SRE; 30/11/22, 4:57 PM; P3, Verify - ACS 2224 (08/29-09/09); Himanshu Shahi
+[MAS] Onboard Mas onto stats-proxy; MAS-SRE | All; 30/11/22, 4:41 PM; Analyze (Screen); Gaurav Goel
+Migration failing with E_WMBOX; iCloud Mail Provisioner | All; 30/11/22, 3:43 AM; Analyze (Screen) - ACS 2301 (09/26-10/07); Himanshu Shahi
+Migration Blockers: users in E_MISSING; MCC-SRE | All; 29/11/22, 11:24 PM; Verify; Himanshu Shahi
+Migration Blockers: User with missing value in identity; iCloud Account Services | New Bugs; 29/11/22, 11:24 PM; Verify - ACS 2223 (08/15-08/26); Himanshu Shahi
+[Outage] GCBD webmail issue due to mccgateway vips missing; MCC-SRE-Mail | All; 29/11/22, 6:09 PM; P2, Verify - ACS 2305 (11/21-12/02); Praveen Sriperumbudhuri
+[ACS Sustainable IP] Enable Cluster-Routable for mccgateway due to IP shortage; MCC-SRE | All; 28/11/22, 10:13 PM; P2, Analyze (Investigate) - ACS 2306 (12/05-12/16); Praveen Sriperumbudhuri
+Connect the UI to the API and show the data; MCC-SRE | All; 28/11/22, 10:07 PM; P3, Analyze (Nominate) - ACS 2304 (11/07-11/18); Ravi Kant
+[DAV] calendarsupport: Too Many Unhealthy Carnival Instances - p63; MCC-SRE-DAV | All; 28/11/22, 6:06 PM; P3, Analyze (Screen) - ACS 2305 (11/21-12/02); Praveen Sriperumbudhuri
+[QA-privaterelay-mta] Add missing host in carnival conf; MCC-SRE-Mail | MTA; 28/11/22, 11:22 AM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+[privaterelay-mta] TLS certificates are not issued by a public trusted Certificate Authority; MCC-SRE-Mail | MTA; 25/11/22, 1:08 PM; P2, Analyze (Screen) - ACS 2305 (11/21-12/02); Chaithra Muruvanda Kushalappa
+[Project Foresight] Enforce mTLS and disable port 80 for DLB VIP: mailquotanotifications.pXX.<env>.me.com; MCC-SRE | All; 25/11/22, 1:07 PM; P2, Analyze (Investigate) - ACS 2225 (09/12-09/23); Chaithra Muruvanda Kushalappa
+Migration failing with DRC_10 due to failure to upload to content; iCloud MailGateway Migration | All; 22/11/22, 5:13 PM; Verify - ACS 2301 (09/26-10/07); Himanshu Shahi
+Gatehouse request for mspgw; MAS-SRE | All; 17/11/22, 6:02 PM; P3, Analyze (Prepare) - FY23 Q1 [Oct-Dec]; Praveen Sriperumbudhuri
+[Hubble Audit][mailprov/mop] Review all your hubble alerts and setup pager for CRITICAL alerts; MCC-SRE-Mail | All; 17/11/22, 4:02 PM; Analyze (Screen) - ACS 2302 (10/10-10/21); Praveen Sriperumbudhuri
+Remove loopback configs; MCC-SRE | All; 16/11/22, 8:57 PM; P4, Analyze (Screen) - Backlog; Chaithra Muruvanda Kushalappa
+Clean up netscaler loopbacks; MCC-SRE | All; 16/11/22, 4:00 PM; P3, Analyze (Screen) - Backlog; Chaithra Muruvanda Kushalappa
+[iCloudMTA] Enable nscd cache after OEL7 upgrade; MCC-SRE | All; 16/11/22, 3:57 PM; P2, Analyze (Screen) - Backlog; Chaithra Muruvanda Kushalappa
+[privaterelay-mta]  smtp1.ic1-privaterelay.appleid.com  is not working; MCC-SRE-Mail | MTA; 15/11/22, 10:18 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+[privaterelay-mta] [QA] Add missing hosts in carnival hosts and DLB; MCC-SRE-Mail | MTA; 15/11/22, 10:16 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+[QA][icloudMTA] Verify all MTA VIPs are cutover to DLB; MCC-SRE-Mail | MTA; 15/11/22, 12:08 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+SUPPORT: EXEC: Notifications not appearing with iCloud Mail; MCC-SRE-Customer Fixes | All; 14/11/22, 9:43 AM; Analyze (Screen); Himanshu Shahi
+need to call dgmailmove for gcbd accounts which got moved to AODC; MCC-SRE-Mail | All; 11/11/22, 12:57 AM; Analyze (Screen); Ravi Kant
+Postgres upgrade on Mail DB (GCBD); MCC-SRE | All; 09/11/22, 10:10 PM; Analyze (Screen); Ravi Kant
+Decommissioning of Nagios Checks - smtpin; MCC-SRE-Mail | MTA; 09/11/22, 1:41 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+Decommissioning of Nagios Checks - bulkin; MCC-SRE-Mail | MTA; 09/11/22, 1:41 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+Decommissioning of Nagios Checks - privaterelaymta; MCC-SRE-Mail | MTA; 09/11/22, 1:41 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+Decommissioning of Nagios Checks - asmtp; MCC-SRE-Mail | MTA; 09/11/22, 1:41 PM; Analyze (Screen); Chaithra Muruvanda Kushalappa
+SUPPORT: DRAGON -  Unable to delete messages in Trash; MCC-SRE-Customer Fixes | All; 09/11/22, 9:51 AM; Analyze (Screen); Himanshu Shahi
+Checking duplicate account for dsid 10409078887; MCC-SRE-Mail | All; 09/11/22, 1:02 AM; P4, Analyze (Screen) - Backlog; Himanshu Shahi
+[SVA]Create Puppet manifest to read verdad and take action; MCC-SRE | All; 07/11/22, 11:36 AM; P4, Analyze (Investigate) - Backlog; Gaurav Goel
+SUPPORT: DRAGON -  Deleted mail rule is still applied; MCC-SRE-Customer Fixes | All; 04/11/22, 4:37 AM; Analyze (Screen); Praveen Sriperumbudhuri
+SUPPORT: DRAGON - Deleted mail rules still affecting incoming emails; MCC-SRE-Customer Fixes | All; 04/11/22, 4:31 AM; Analyze (Screen); Praveen Sriperumbudhuri
+SUPPORT: DRAGON -  iCloud Mail Rules missing at icloud.com; MCC-SRE-Customer Fixes | All; 04/11/22, 4:23 AM; Analyze (Screen); Praveen Sriperumbudhuri
+[MCC] Cert expiry alerts for QA all environments (kube + carnival); MCC-SRE | All; 03/11/22, 5:02 PM; P3, Analyze (Screen) - Backlog; Sourav Maji
+MGW: kube redis replacement for Pie redis; MCC-SRE | All; 03/11/22, 12:29 PM; Analyze (Screen); Himanshu Shahi
+Need extra space for storing backup for decomm in mlogs and megaoverflow; MCC-SRE | All; 03/11/22, 11:15 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON - Mail app crashes on iPad only when iCloud Mail is enabled; MCC-SRE-Core | All; 01/11/22, 9:13 PM; Analyze (Screen); Ravi Kant
+[MAS - DevHelp] Gatehouse request for mspgw; MAS Server | All; 31/10/22, 12:08 PM; P2, Analyze (Screen) - ACS 2302 (10/10-10/21); Praveen Sriperumbudhuri
+[MAS] Fine tune redis failure Hubble KPI; MAS Server | All; 29/10/22, 5:36 AM; P2, Verify - ACS 2303 (10/24-11/04); Gaurav Goel
+Move mail metadata for users in p01-p08 to higher partitions; iCloud Mail Provisioner | All; 25/10/22, 10:56 PM; P2, Verify - ACS 2302 (10/10-10/21); Himanshu Shahi
+com.apple.its.redis.core.exception.RedisClientNotAvailableException - No available node in shard in icmas_mr; ACI Redis | All; 21/10/22, 5:12 AM; P2, Verify - ACS 2302 (10/10-10/21); Praveen Sriperumbudhuri
+[mspgw] : Ingress testing in Kube; MAS-SRE | All; 19/10/22, 10:12 AM; P3, Analyze (Investigate) - FY23 Q1 [Oct-Dec]; Praveen Sriperumbudhuri
+Need to dedup DRC_23 accounts and retry migration; MCC-SRE | All; 18/10/22, 10:35 AM; Analyze (Screen); Himanshu Shahi
+[GG] MOP Server Busy - Increase DB connections; MCC-SRE-Mail | All; 17/10/22, 2:40 PM; P3, Analyze (Screen) - Backlog; Praveen Sriperumbudhuri
+Create alert when puppet is broken on DAV hosts; MCC-SRE-DAV | All; 13/10/22, 11:34 PM; Analyze (Screen) - Backlog; Sourav Maji
+[MAS] Setup Mosaic namespace in playground-gala; MAS-SRE | All; 11/10/22, 5:27 PM; P2, Analyze (Screen) - Backlog; Gaurav Goel
+API Gateway: Create VIPs in iCPerf; MCC-SRE | All; 11/10/22, 1:48 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+SUPPORT: DRAGON -  iCloud mail does not sync across devices; MCC-SRE-Customer Fixes | All; 11/10/22, 1:47 AM; Analyze (Screen); Praveen Sriperumbudhuri
+[Project Foresight] Enforce mTLS and disable port 80 for xRail VIP: commandcenter.pXX.<env>.me.com; MCC-SRE | All; 10/10/22, 9:39 PM; P2, Analyze (Investigate); Praveen Sriperumbudhuri
+[Project Foresight] Enforce mTLS and disable port 80 for DLB VIP: commandcenter.pXX.<env>.me.com; MCC-SRE | All; 10/10/22, 9:39 PM; P2, Analyze (Screen); Praveen Sriperumbudhuri
+Update Mailprov runbook to describe how to escalate issue to DBA team; MCC-SRE | All; 10/10/22, 12:16 PM; P3, Analyze (Screen) - Backlog; Chaithra Muruvanda Kushalappa
+Migrate ddprobe to playground-gala; MCC-SRE-Observability | Mosaic; 07/10/22, 3:45 PM; P3, Analyze (Screen) - Backlog; Sourav Maji
+SUPPORT: DRAGON - Request to delete all mail data from server; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; P2, Analyze (Screen); Ravi Kant
+SUPPORT: GG Oracle - iCloud Mail - Unable to receive/access icloud mail (p203) - move to AODC; MCC-SRE-Mail | MailGateway; 06/10/22, 2:05 AM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+SUPPORT: DRAGON -  iCloud Mail - Request to clear mail usage; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON -  Missing content and deleted email returning on macOS only; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: P205 - Unable to access iCloud mail, Unable to fetch Mail General information for the user - move to GCBD; MCC-SRE-Mail | MailGateway; 06/10/22, 2:05 AM; P3, Analyze (Screen); Himanshu Shahi
+SUPPORT: request to deactivate email alias; MCC-SRE-Mail | Provisioning; 06/10/22, 2:05 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON - Unable to receive mail from the specific website P64; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Ravi Kant
+SUPPORT: DRAGON - New Mail rules are not working & deleted mail rule continued to function; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON -  Mail Drop attachment unable to download; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Ravi Kant
+SUPPORT: DRAGON -  Request to reset Mail data; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON -  Not receiving from most senders; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON -  Cannot delete Trash; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Ravi Kant
+SUPPORT: DRAGON -  Unable to delete mail folder; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON -  Request to delete mail; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON -  Trash setting reverts on multiple iOS devices; MCC-SRE-Customer Fixes | All; 06/10/22, 2:05 AM; Analyze (Screen); Ravi Kant
+Migration fails with SZ_MISMTCH; iCloud MailGateway Migration | All; 03/10/22, 3:11 PM; Analyze (Screen); Himanshu Shahi
+[MAS][Redis] Single bad node on Redis is causing increase in exception; ACI Redis | All; 28/09/22, 11:11 PM; P2, Verify - ACS 2301 (09/26-10/07); Gaurav Goel
+Onboard CC to use DC specific ACI Redis clusters; MCC-SRE-Mail | All; 28/09/22, 5:57 PM; Analyze (Screen); Ravi Kant
+Infrastructure update inquiry [ Iscreamv2-msauth hosts]; MCC-SRE | All; 27/09/22, 11:46 PM; P2, Analyze (Screen) - ACS 2301 (09/26-10/07); Himanshu Shahi
+Upgrading the mailstores to latest image; MCC-SRE | All; 27/09/22, 6:53 PM; Analyze (Screen); Himanshu Shahi
+Backup archival process for DEPR and RSTD users; MCC-SRE | All; 27/09/22, 6:24 PM; Analyze (Screen); Himanshu Shahi
+Migration failing with E_MISSING which need to be purged; MCC-SRE | All; 26/09/22, 9:48 PM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON -  Marked Not Junk still flagged as Junk when their Login Alias is in CC/BCC; MCC-SRE-Customer Fixes | All; 24/09/22, 3:43 AM; Analyze (Screen); Himanshu Shahi
+maigration_blocker: E_Missing error; MCC-SRE | All; 23/09/22, 2:25 AM; Verify; Himanshu Shahi
+[icm_farnsworth_noise] - multiple dlb alert on FW; MCC-SRE | All; 20/09/22, 9:17 PM; P3, Analyze (Screen) - ACS 2225 (09/12-09/23); Himanshu Shahi
+Migration Blocker: User stuck in E_WMBOX state needs fix(duplicate user); MCC-SRE | All; 20/09/22, 5:02 PM; Analyze (Screen); Himanshu Shahi
+migration of  RSTD and DEPR users stuck in READY state; MCC-SRE | All; 20/09/22, 5:02 PM; Analyze (Screen); Himanshu Shahi
+Migration failing with DRC_16; MCC-SRE | All; 20/09/22, 4:37 PM; Analyze (Screen); Himanshu Shahi
+Migration Blocker: User stuck in E_WMBOX state; MCC-SRE | All; 20/09/22, 4:17 PM; Analyze (Screen); Himanshu Shahi
+Kindly check the dlb host - pv50p00im-quhk11144501; MCC-SRE | All; 20/09/22, 11:42 AM; Analyze (Screen); Himanshu Shahi
+Migration Blocker: User stuck in READY state; MCC-SRE | All; 20/09/22, 3:25 AM; P2, Analyze (Screen) - ACS 2225 (09/12-09/23); Himanshu Shahi
+migration_blocker: User stuck in p09-p22; MCC-SRE | All; 19/09/22, 10:11 PM; Analyze (Screen); Himanshu Shahi
+ICM- Kernel upgrade of Mailgateway/Mailbackend hosts; iCloud Vulnerability Tracker | 1.0; 19/09/22, 3:46 PM; Analyze (Screen); Himanshu Shahi
+dragon users are in READY STATE; MCC-SRE-Mail | All; 17/09/22, 6:02 AM; Analyze (Screen); Himanshu Shahi
+Migration Blockers: users in E_DUPL_USR state; MCC-SRE | All; 15/09/22, 6:07 PM; P6, Analyze (Investigate) - ACS 2225 (09/12-09/23); Himanshu Shahi
+Migration Blocker: User cannot be migrated as they have been user moved to GCBD; iCloud-SRE-China | All; 15/09/22, 5:09 AM; P2, Verify - ACS 2223 (08/15-08/26); Himanshu Shahi
+oracle accounts in mail db 1 to 34; MCC-SRE-Mail | All; 14/09/22, 10:13 PM; Analyze (Screen) - Future; Himanshu Shahi
+Migration - review exclude users list; iCloud Mail Move | All; 14/09/22, 5:47 PM; Analyze (Screen) - ACS 2225 (09/12-09/23); Himanshu Shahi
+[ACS Sustainable IP] Enable Cluster-Routable for commandcenter due to IP shortage; MCC-SRE | All; 14/09/22, 3:22 PM; P2, Analyze (Screen) - ACS 2225 (09/12-09/23); Praveen Sriperumbudhuri
+Decommissioning of Nagios Checks - MGW/MBE; MCC-SRE-Mail | MailGateway; 14/09/22, 1:38 PM; Analyze (Screen); Himanshu Shahi
+SUPPORT: Unable to remove iCloud login alias - Removed from DS not from iCloud following support app error; MCC-SRE-Customer Fixes | All; 14/09/22, 12:29 PM; P3, Analyze (Screen) - ACS 2224 (08/29-09/09); Praveen Sriperumbudhuri
+icm_mail_migration: p132 and p130 vips missing in dgconf; MCC-SRE | All; 13/09/22, 2:18 AM; Analyze (Screen); Himanshu Shahi
+[MAS][MSPgateway] MSP-gateway in kube  instance is looking for secrets under /etc/bedrock; MAS-SRE-MSPGW | All; 12/09/22, 7:05 PM; P2, Analyze (Investigate) - Backlog; Gaurav Goel
+dlb.vip.commandcenter-k8s-p* alerts on multiple PV DLB hosts 10/05/2021; MCC-SRE | All; 09/09/22, 6:07 PM; P3, Analyze (Screen) - Backlog; Praveen Sriperumbudhuri
+Command center : DR strategy to backup / restore the service in case of catastrophic failure; MCC-SRE | All; 09/09/22, 6:07 PM; P2, Analyze (Investigate) - Backlog; Praveen Sriperumbudhuri
+[SVA] Configuring DB & supporting scripts; MCC-SRE | All; 09/09/22, 5:58 PM; Analyze (Screen); Praveen Sriperumbudhuri
+Avoid migrating dsids which are failing with E_MP_MGI; MCC-SRE | All; 08/09/22, 10:01 PM; P2, Verify; Himanshu Shahi
+Migration - Need to dedup accounts failing with DRC_23; MCC-SRE-Mail | All; 08/09/22, 9:49 PM; P3, Analyze (Screen) - ACS 2223 (08/15-08/26); Himanshu Shahi
+Migration Blocker: Users with huge mailbox needs dedup; MCC-SRE | All; 08/09/22, 9:47 PM; P2, Analyze (Screen) - ACS 2224 (08/29-09/09); Himanshu Shahi
+Migration Blockers: users in HOLD_MPERR state; MCC-SRE | All; 08/09/22, 9:46 PM; P4, Analyze (Investigate) - ACS 2224 (08/29-09/09); Himanshu Shahi
+Migration - Missing some .msg files during migration but its present in imcheck output; MCC-SRE | All; 07/09/22, 1:29 PM; Analyze (Screen); Himanshu Shahi
+Too many health check requests to an instance; iCloud Mail API Gateway | All; 07/09/22, 3:41 AM; P2, Analyze (Screen); Himanshu Shahi
+many missing conf for migration; MCC-SRE-Mail | All; 06/09/22, 3:38 PM; Analyze (Screen); Himanshu Shahi
+Migration Blocker: User with content and fdb partition missing; iCloud AccountService | All; 01/09/22, 6:04 PM; Verify - ACS 2222 (08/01-08/12); Himanshu Shahi
+Partial release support in QA2 spinnaker single app manual release pipeline; MAS Server | SRE; 01/09/22, 10:44 AM; P3, Analyze (Investigate) - Backlog; Gaurav Goel
+[Project Foresight] Enforce mTLS and disable port 80 for DLB VIP: mailgateway-backend.pXX.<env>.me.com; MCC-SRE-Mail | MailGateway; 30/08/22, 11:20 PM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+[MAS Apps][Perf] Tomahawk CPU Tuning perf testing; MAS Server | SRE; 30/08/22, 10:40 PM; Analyze (Screen) - ACS 2224 (08/29-09/09); Gaurav Goel
+[SVA] Creating the individual task script we need to run on host; MCC-SRE | All; 29/08/22, 4:58 PM; P3, Analyze (Screen) - ACS 2224 (08/29-09/09); Gaurav Goel
+[SVA]Creating a verdad module to update verdad API; MCC-SRE | All; 29/08/22, 4:52 PM; P3, Integrate - ACS 2224 (08/29-09/09); Gaurav Goel
+SUPPORT: DRAGON -   Unable to access iCloud mail, Unable to initiate health check for Mail - p214 - 401; MCC-SRE-Mail | MailGateway; 29/08/22, 1:35 PM; P3, Analyze (Screen) - ACS 2224 (08/29-09/09); Chaithra Muruvanda Kushalappa
+Threading: Fix 20 GG users - move to AODC; MCC-SRE-Mail | MailGateway; 29/08/22, 4:52 AM; P3, Analyze (Screen); Himanshu Shahi
+Create scripts to select and delete accounts having corrupted data in mme_mail_push_folder_list; iCloud MailGateway Migration | All; 26/08/22, 1:25 PM; P3, Build - ACS 2223 (08/15-08/26); Himanshu Shahi
+Sub-TLF: MCC: [HP Tech Refresh-Prep for Decom-iScreamV2-Msauth/Mailnotify]; MCC-SRE | All; 26/08/22, 11:33 AM; Analyze (Screen); Himanshu Shahi
+[icloud2][asmtp] Fix incorrect DLB upstreams; MCC-SRE-Mail | All; 24/08/22, 3:07 PM; Analyze (Screen); Arun Kumar Kezhucheri
+[Project Foresight] Enforce mTLS and disable port 80 for DLB VIP: mailgateway.pXX.<env>.me.com; MCC-SRE-Mail | MailGateway; 11/08/22, 4:37 AM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+Identity Service mailhost mismatch for DSID/Username and Alias; MCC-SRE-Mail | All; 09/08/22, 1:54 AM; P2, Analyze (Screen) - ACS 2220 (07/04-07/15); Himanshu Shahi
+Multiple st11p09mm-msauth001 host alerts in FW; MCC-SRE | All; 05/08/22, 4:16 AM; Analyze (Screen); Himanshu Shahi
+Memory increase for p124 MGW imap and smtp from 8->12Gi; MCC-SRE | All; 04/08/22, 9:18 PM; Analyze (Screen); Himanshu Shahi
+[SVA] Creating a UI to display task status; MCC-SRE | All; 04/08/22, 2:59 PM; Analyze (Screen); Ravi Kant
+Famine certificate /san/famine/prod-cert.pem on iscreamv2-msauth hosts will expire in 60 days or less; MCC-SRE | All; 02/08/22, 7:50 AM; Analyze (Screen); Himanshu Shahi
+Vulnerable sudo rules for mmm.service.usermove & mmm.module.sudoers; MCC-SRE | All; 02/08/22, 4:45 AM; P2, Verify; Himanshu Shahi
+[authserver][Helm] Remove PV & us-west-2a and add presence in us-west-2e; MCC-SRE | All; 01/08/22, 2:52 PM; Analyze (Screen) - Backlog; Arun Kumar Kezhucheri
+[icm_hubble_noise] ERROR : IMC: HTTP 5xx Errors; MCC-SRE | All; 27/07/22, 8:24 AM; Analyze (Screen); Himanshu Shahi
+Sub TLF: MCC [HP Tech Refresh-iScreamV2]; MCC-SRE | All; 21/07/22, 9:57 PM; Analyze (Screen); Himanshu Shahi
+[icm_hubble_noise] MGW: Service:Health:Failure:Time:imc - Hubble alerts for p32; MCC-SRE | All; 21/07/22, 8:45 AM; Analyze (Screen); Himanshu Shahi
+Number of iCloud Mail Users in India and China; MCC-SRE | All; 14/07/22, 10:30 AM; Analyze (Screen); Himanshu Shahi
+[MAS Apps] Tomahawk CPU Tuning; MAS-SRE | All; 01/07/22, 11:28 AM; P2, Analyze (Investigate) - Backlog; Gaurav Goel
+DR mop_db_health has issue in reporting SAD; MCC-SRE | All; 24/06/22, 2:27 PM; P3, Analyze (Screen); Chaithra Muruvanda Kushalappa
+[SVA]Create a Slack module to update status; MCC-SRE | All; 23/06/22, 10:19 AM; Analyze (Screen); Praveen Sriperumbudhuri
+'dlb.vip.mailgateway-230' alert on DLB hosts of cluster mr38p00im-dlb4042; MCC-SRE | All; 23/06/22, 8:57 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+MGW: MGW: rebalancing p101/102 (3rd batch); MCC-SRE-Mail | MailGateway; 22/06/22, 11:58 PM; Verify; Himanshu Shahi
+Setup shuttlecloud couchdb backup; MCC-SRE | All; 21/06/22, 11:06 AM; P2, Analyze (Screen) - Backlog; Arun Kumar Kezhucheri
+Dragon Migration: Prioritize 24872 GCBD Free Users; MCC-SRE | All; 18/06/22, 2:37 AM; Analyze (Screen); Himanshu Shahi
+[Mailcc-sync-webms/migration] Add data to create meaningful alerts for application; iCloud Mail Command Center | Migration; 16/06/22, 6:41 PM; P2, Verify - ACS 2217 (05/23-06/03); Praveen Sriperumbudhuri
+Mail Verify and finalize runbooks for AIPO [CommandCenter]; MCC-SRE | All; 16/06/22, 6:33 PM; P3, Analyze (Investigate) - Backlog; Praveen Sriperumbudhuri
+[Upgrade] Add feature to exit if lock file is present for store and page for failover failed; MCC-SRE | All; 15/06/22, 12:18 PM; P3, Analyze (Screen) - Backlog; Ravi Kant
+[Hubble-Runner]Remove the part of the code in hubble-ireporter which used to push data to footprint; MCC-SRE | All; 15/06/22, 12:13 PM; Analyze (Screen) - Backlog; Sourav Maji
+[FinalMilter] Publish KPI for number of abnormal crashes; MCC-SRE | All; 15/06/22, 12:12 PM; Analyze (Screen) - Backlog; Arun Kumar Kezhucheri
+Deploy CKMM-20220613200025.pkg to Prod mailstores; MCC-SRE | All; 14/06/22, 11:19 AM; Analyze (Screen); Himanshu Shahi
+Migrations are failing with DRC_5 because of exceeding message size limit for less_than_1k size accounts; MCC-SRE | All; 09/06/22, 11:56 AM; Analyze (Screen); Himanshu Shahi
+Total Drop in data sent to iReporter for app privaterelay_mta; MCC-SRE | All; 08/06/22, 11:02 PM; Analyze (Screen); Himanshu Shahi
+[Webmail]Investigate the cause for malicious sendfrom traffic; MCC-SRE | All; 06/06/22, 6:26 PM; Analyze (Screen); Praveen Sriperumbudhuri
+[icm_hubble_noise] : count of iscreamv2 msauth token; MCC-SRE | All; 06/06/22, 3:17 PM; P3, Analyze (Investigate) - Backlog; Himanshu Shahi
+SUPPORT: DRAGON - Mail rule not working; MCC-SRE-Customer Fixes | All; 03/06/22, 8:16 PM; Analyze (Screen); Himanshu Shahi
+Migrate DB instances from icmb-projects-poc-hiring to a dedicated namespace unreleased to mail; ACS SRE - Hiring | Interviewstats; 01/06/22, 7:19 PM; P4, Analyze (Investigate) - ACS 2217 (05/23-06/03); Praveen Sriperumbudhuri
+SUPPORT: DRAGON - Mail arriving at deleted alias; MCC-SRE-Customer Fixes | All; 27/05/22, 12:03 AM; P3, Analyze (Screen) - ACS 2213 (03/28-04/08); Himanshu Shahi
+Delete old style Mailprov VIPs; MCC-SRE-Mail | All; 23/05/22, 8:21 PM; P4, Analyze (Screen) - Backlog; Chaithra Muruvanda Kushalappa
+Delete old style MOP VIPs; MCC-SRE-Mail | All; 23/05/22, 8:21 PM; P4, Analyze (Screen) - Backlog; Chaithra Muruvanda Kushalappa
+Telnet command failure for few ldap partitions; MCC-SRE | All; 19/05/22, 11:46 AM; Analyze (Screen); Himanshu Shahi
+SUPPORT: DRAGON - Can't enable iCloud mail on macOS. Prompted to create iCloud address even though one exists; MCC-SRE-Customer Fixes | All; 18/05/22, 3:12 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+[Finalmilter] Reorganise configs by DC instead of Kube cluster name; MCC-SRE-Mail | All; 16/05/22, 10:04 AM; Analyze (Screen); Arun Kumar Kezhucheri
+CKMM - gaierror(-2, 'Name or service not known'); MCC-SRE | All; 09/05/22, 1:35 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+[icm_farnsworth_noise] : app.msauthnotify alerts on isV2/msauth hosts; MCC-SRE | All; 09/05/22, 1:35 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+[icm_hubble_noise] : WARNING : mailnotify - minimum push success; MCC-SRE | All; 09/05/22, 1:35 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+Oracle error in while starting migration in perf; MCC-SRE | All; 09/05/22, 1:35 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+mcc_migration: Data validation in splunk and grafana; MCC-SRE | All; 09/05/22, 1:35 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+[Foresight] Delete old style VIPs for mailnotify; MCC-SRE | All; 09/05/22, 1:35 PM; P2, Analyze (Screen) - Backlog; Himanshu Shahi
+Failed to Delete Alias: 1023970482; MCC-SRE | All; 09/05/22, 1:35 PM; Analyze (Screen) - Backlog; Gaurav Goel
+Missing Splunk logs for index icm-mailgateway in p98; MCC-SRE | All; 09/05/22, 1:35 PM; P2, Analyze (Screen) - Backlog; Himanshu Shahi
+Capacity analysis for MGW on Kube; MCC-SRE-Mail | MailGateway; 06/05/22, 8:31 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+mcc_mailgateway: increase redis in p103+ partition; MCC-SRE-Mail | MailGateway; 06/05/22, 8:31 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+MCC SRE Support Radar - 2212; MCC-SRE | All; 12/04/22, 3:35 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+MCC SRE Support Radar - 2214; MCC-SRE | All; 12/04/22, 3:30 PM; P6, Analyze (Investigate) - ACS 2214 (04/11-04/22); Himanshu Shahi
+MCC SRE Interrupts - ACS 2212; MCC-SRE | All; 11/04/22, 6:12 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+mcc_mail_mailstore:Exception for upgrade on pending mailstores (Security Vulnerability Project); MCC-SRE | All; 11/04/22, 6:12 PM; P4, Analyze (Investigate) - Backlog; Himanshu Shahi
+Deploy MGW/MBE 2212B242 to MBE p71 Carnival; MCC-SRE-Deployments | All; 11/04/22, 6:10 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+Puppet error on st41p57im-ztfb14240601.me.com; MCC-SRE | All; 11/04/22, 6:10 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+Deploy MGW/MBE 2212B226 to Prod; MCC-SRE-Deployments | All; 11/04/22, 6:10 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+create mailmigration.p02.icloud2.me.com; MCC-SRE | All; 29/03/22, 10:52 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+[PROD] AMP_SERVICE_ISSUE ; MCC-SRE | All; 29/03/22, 10:52 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Need to Review : pv41p33im-tydg07082101; MCC-SRE | All; 29/03/22, 10:52 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Migration failing with DRC_7 because of msauth timeout; MCC-SRE | All; 29/03/22, 10:52 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+user cchantegrelet needing de-duplication adversely affecting ISS search; MCC-SRE | All; 29/03/22, 10:52 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+mcc_mail_mailgateway: update min and max pods in Helm; MCC-SRE-Mail | MailGateway; 22/03/22, 4:25 AM; P3, Verify - ACS 2212 (03/14-03/25); Himanshu Shahi
+Request to cleanup MR /nas/mtools mount; MCC-SRE | All; 14/03/22, 5:07 PM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+Puppet.log.error on ms72305; MCC-SRE | All; 14/03/22, 5:07 PM; P2, Analyze (Screen) - Backlog; Himanshu Shahi
+mcc_mail_migration: Dedup of Oracle users; MCC-SRE | All; 14/03/22, 5:07 PM; P4, Analyze (Investigate) - Backlog; Himanshu Shahi
+dlb.vip alerts on mailgateway hosts; MCC-SRE | All; 14/03/22, 5:07 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+dlb.vip alerts on mailquotanotifications; MCC-SRE | All; 14/03/22, 5:07 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+puppet.log.run/error alert on mailprov servers; MCC-SRE | All; 14/03/22, 5:07 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+Please deploy iscream build 2119B18 to all envs; iCloud Mail SRE | Deployments; 14/03/22, 5:07 PM; P2, Analyze (Prepare) - Backlog; Himanshu Shahi
+iCloud 2: Mail(China account): Mail app is crashing for china account; iCloud Mail SRE | Customer Fixes; 14/03/22, 5:07 PM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+[icm_msauth] Lower carnival partitions - msauth Instances is SAD; MCC-SRE | All; 14/03/22, 5:07 PM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+Dlb.vip alerts for edis-0-k8s, redis-1-k8s, tika-k8s, mailnotify-k8s on pv43p00im-dlb001.me.com; MCC-SRE | All; 14/03/22, 5:07 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+[icm_farnsworth_noise] mgw.k8s.txn alerts due to ongoing usermoves of test accounts; MCC-SRE | All; 14/03/22, 5:07 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+Puppet issue on DRISS : mr21p30im-hpag08020101 /mr21p30im-hpag08010101; MCC-SRE | All; 14/03/22, 5:07 PM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+Adding hosts to hydrogen - pv35p43im-ztdg05110101.me.com, pv35p43im-ztdg05120101.me.com; MCC-SRE-Mail | All; 28/02/22, 6:37 PM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+Enable Accountservice https on iscreamv2-msauth; MCC-SRE | All; 28/02/22, 6:30 PM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+[Production] Silkroad: Mail Drop test is failing: Cannot attach files due to a server error; MCC-SRE-Mail | All; 28/02/22, 6:28 PM; Analyze (Screen) - Backlog; Gaurav Goel
+SUPPORT: DRAGON - Unable to add contacts to VIP, error occurs; MCC-SRE-Customer Fixes | All; 15/02/22, 10:40 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+[icm_farnsworth_noise] : Increase in msauth.auth.iscreamv2 alerts; MCC-SRE | All; 02/02/22, 11:05 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+[finalmilter] finalmilter should honors only A-R headers having authserv-id ending with .icloud.com; MCC-SRE | All; 01/02/22, 7:00 PM; P3, Analyze (Screen) - Backlog; Arun Kumar Kezhucheri
+[MAS]Add a Hubble KPI to notify about number of connection; MAS-SRE | All; 28/01/22, 3:31 PM; P2, Analyze (Screen) - Backlog; Gaurav Goel
+[Finalmilter] - Publish Hubble KPIs for all milters Headers Missing; MCC-SRE | All; 21/01/22, 2:12 PM; Analyze (Screen) - Backlog; Arun Kumar Kezhucheri
+icm_mail_mailgateway_smtp: updating helm; MCC-SRE | All; 18/01/22, 10:23 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+Direct paging: MGW: Mailgateway Watchdog barked; MCC-SRE | All; 18/01/22, 10:17 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+dlb.vip alerts on pv43p00im-dlb001.me.com; MCC-SRE | All; 15/01/22, 5:06 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Frequent alerts for zoidberg.cleanup alert : reprovisioning issue; MCC-SRE | All; 15/01/22, 5:06 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Cert renewal on mailnotify_certificate_expire; MCC-SRE | All; 15/01/22, 5:06 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+User stuck in MOVO but pserv pointing to destination; MCC-SRE | All; 15/01/22, 5:06 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+icm : net.pie.redis.connectivity in FW; MCC-SRE | All; 15/01/22, 5:06 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+sudden spike for memory Utilization on docker host- mr26p50im-ztdg04164001; MCC-SRE | All; 15/01/22, 5:06 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+DECOMM: failing TOR: [PROD] P05 Mailnotify hosts and msauth vip under failing TOR : INC080749895; MCC-SRE | All; 15/01/22, 5:06 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+[icm_hubble_noise]: Drop in [MGW + MBE] - Redis Writes - p14; MCC-SRE | All; 15/01/22, 5:06 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Enable xb DC AS vip from aodc to GG; MCC-SRE | All; 15/01/22, 5:06 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Seeing nsmvip.mailquotanotificationsvip-lb DOWN alerts; MCC-SRE | All; 15/01/22, 4:51 AM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+VIPs entirely down! for (mailgateway-230) unused interface; MCC-SRE | All; 15/01/22, 4:51 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Create msauthv2 in qa.; MCC-SRE | All; 15/01/22, 4:51 AM; P4, Analyze (Screen) - Backlog; Himanshu Shahi
+[icm_hubble_noise] Drop in Total IMAP SELECT/FETCH commands; MCC-SRE | All; 15/01/22, 4:51 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Drain : Batch 4 - users are in MOVE state; MCC-SRE | All; 15/01/22, 4:51 AM; P3, Analyze (Screen) - ACS 2108 (04/12-04/23); Himanshu Shahi
+Mailgateway-backend vip not enabled for mtls in perf; MCC-SRE | All; 15/01/22, 4:46 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Add GG vip creation config for mgw/as in msauthvtwo on aodc; MCC-SRE | All; 15/01/22, 4:46 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+DT for redis connectivity alerts; MCC-SRE | All; 15/01/22, 4:46 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Mailmove failing with E_MP_403; MCC-SRE | All; 15/01/22, 4:46 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Deploy MAILMOVE-20210903042743.pkg to Prod mailstores; MCC-SRE | All; 15/01/22, 4:46 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Megaoverflow cleanup: PV /nas/megaoverflow/gigaoverflow001 reached 95%; MCC-SRE | All; 15/01/22, 4:46 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+app.mailnotify.certificate alerts on mailnotify; MCC-SRE | All; 15/01/22, 4:46 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+[icm_hubble_noise] Frequent Spikes in Mailgateway: CKRPC: latencies; MCC-SRE | All; 15/01/22, 4:39 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+New style vip for mailnotify; MCC-SRE | All; 15/01/22, 4:39 AM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+Mailnotify APNS push new cert update; MCC-SRE | All; 15/01/22, 4:39 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Exabgp check clenup for Mailquotanotifcation vip for partitions with no oracle users; MCC-SRE | All; 15/01/22, 4:39 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+mailquotanotifications-234 VIP down alerts for decommissioned stores; MCC-SRE | All; 15/01/22, 4:39 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Deploy orphan_cleanup_to_be_run_on_mailstore.pl 20210610150847 to all 5 DCs; MCC-SRE | All; 15/01/22, 4:38 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Msauthvtwo : Xrail in Kube can reuse same ip:port in another group AODC; MCC-SRE | All; 15/01/22, 4:38 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Drop in redis connections and Host availability for icmailidentityredis; MCC-SRE | All; 15/01/22, 4:35 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Need to cleanup NSM mailbackendvip alerts; MCC-SRE | All; 15/01/22, 4:35 AM; P3, Analyze (Screen) - Backlog; Himanshu Shahi
+Cleanup of MGW NSM vip : P97.; MCC-SRE | All; 15/01/22, 4:35 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+[icm_hubble_noise]: Frequent MGW: IMAP OK: dropping during off peak hours; MCC-SRE | All; 15/01/22, 4:35 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+SEED: 20G303/iMac15,1: Can't see iCloud Trash file in Mail; iCloud Customer Fixes | Mail; 05/01/22, 11:25 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Msauth should be removed from Carnival (0% healthy); MCC-SRE | All; 14/12/21, 11:43 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+pserv_ti should be removed from Carnival; MCC-SRE | All; 14/12/21, 11:43 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Copy bug user issue - [ DSID - 10576193485 ]; MCC-SRE | All; 14/12/21, 11:43 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+run.famine.foreman alert on pv42p55im-ztdg10061101 and pv42p55im-ztdg10051101; MCC-SRE | All; 14/12/21, 11:43 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Cleanup imc Carnival package (0% healthy); MCC-SRE | All; 14/12/21, 11:43 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+mr21p30im-mailnotify004- app.mailnotify.certificate; MCC-SRE | All; 14/12/21, 11:43 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+Old Identity Carnival package should be removed; MCC-SRE | All; 14/12/21, 11:43 AM; Analyze (Screen) - Backlog; Himanshu Shahi
+dlb.vip.mailgateway-230 alert for p55 repurposed MGW hosts; MCC-SRE | All; 01/12/21, 12:41 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+Famine based Msauth cleanup from iCloud QA and icperf carnival - carnival stability; MCC-SRE | All; 09/11/21, 2:54 AM; P4, Analyze (Investigate) - Sprint Driven; Himanshu Shahi
+21A5248d: Mail lost my account password again, can't send email; iCloud Mail SRE | Customer Fixes; 17/08/21, 3:31 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+D54p/19A237a: mail should be able to update unread message count in the background; iCloud Mail SRE | Customer Fixes; 19/07/21, 6:17 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+iCloud2 P01 | Cannot send mail due to connection to outgoing server p01-smtp.mail.me failed; iCloud Mail SRE | Customer Fixes; 19/07/21, 6:17 PM; Analyze (Screen) - Backlog; Himanshu Shahi
+AppleCare: D53A + 18F72: Mail sent from self to self doesn't appear in Inbox; iCloud Mail SRE | Customer Fixes; 05/07/21, 6:58 PM; Analyze (Screen) - Backlog; Himanshu Shahi
